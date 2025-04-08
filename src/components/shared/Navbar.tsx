@@ -45,8 +45,8 @@ export function Navbar() {
             bgClip="text"
             fontWeight="extrabold"
           >
-            {/* Replace this with your own branding */}
-            THIRDMART
+            {/* Replace this with your own branding */}s p u n t e n t e r t a i
+            n m e n t
           </Heading>
         </Box>
         <Box display={{ lg: "block", base: "none" }}>
