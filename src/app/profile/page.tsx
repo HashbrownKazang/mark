@@ -18,7 +18,7 @@ export default function ProfilePage() {
     return (
       <Box>
         <Flex>
-          <Heading m="auto">Log in to continue</Heading>
+          <Heading m="auto">sign in please</Heading>
         </Flex>
       </Box>
     );

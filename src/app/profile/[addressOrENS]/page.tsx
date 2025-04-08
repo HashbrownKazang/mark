@@ -20,7 +20,7 @@ export default function PublicProfilePage({
   if (isLoading) {
     return (
       <Box>
-        <Text>Loading...</Text>
+        <Text>loading..</Text>
       </Box>
     );
   }
